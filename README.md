@@ -165,3 +165,9 @@ class RandomNumbers {
 
 Yayyyy 🥳 you did this, Now use this method anywhere like a normal dart method.
 
+##Results
+###iOS
+![result in iOS](result/ios.png)
+
+###Android
+![result in Android](result/andoird.jpeg)
