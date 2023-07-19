@@ -2,7 +2,7 @@
 
 A platform Channel Example
 
-## Use Native code in Flutter
+# Use Native code in Flutter
 
 
 # Using Native code in Flutter
